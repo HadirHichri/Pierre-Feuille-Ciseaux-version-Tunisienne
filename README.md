@@ -8,7 +8,7 @@
 
 ---
 
-## ⭐ L'Unique "Warqa 7ajra Ma9ass"
+## ⭐ L'Unique "Warqa 7ajra Mi9ass"
 
 Ce projet est la version web interactive du célèbre jeu **Pierre-Feuille-Ciseaux**, avec une touche culturelle unique :
 
